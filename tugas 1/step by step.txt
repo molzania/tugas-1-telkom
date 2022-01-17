@@ -1,0 +1,40 @@
+1. mkdir 'firsty ukhti molyndi'
+2. cd 'firsty ukhti molyndi'
+mkdir sekolah
+mkdir kerja
+3. cd sekolah
+4. echo ijazah.txt
+command nano ijazah.txt
+ketik 
+Perkenalkan namaku MOLLY 
+
+Aku berasal dari PALEMBANG
+
+Salam Kenal :D
+ctrl + x -> y -> enter -> exit
+cat nano ijazah.txt
+echo portofolio.txt
+command nano portofolio.txt
+ketik 
+Saya pernah bekerja pada beberapa perusahaan salah satu 
+diantaranya ialah
+
+- facebook
+- twitter
+- youtube  
+ctrl + x -> y -> enter -> exit
+4. cd ..
+5. cd kerja
+command nano cv.txt
+ketik 
+Salam,
+
+Perkenalkan namaku $NAMA, saya memiliki kegemaran
+- MENULIS
+- DESAIN GRAFIS
+- CODING
+ctrl + x -> y -> enter -> exit
+cat nano cv.txt
+6. cd ..
+cd sekolah 
+mv portofolio.txt ../kerja
